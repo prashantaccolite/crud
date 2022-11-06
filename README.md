@@ -23,3 +23,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 4) Once record will add it will update in right side `table`
 5) On delete, user will get `confirmation popup`. you can use default `confirm`. after confirmation, record will delete.
 6) On edit data will automatically fill in left side form and and from button label will change. in case of edit button label will be `Update` instead of `Submit`
+
+## Reference 
+
+[Icon Bootstrap](https://icons.getbootstrap.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
